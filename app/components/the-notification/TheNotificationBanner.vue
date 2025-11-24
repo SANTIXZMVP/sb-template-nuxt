@@ -53,12 +53,12 @@ onMounted(() => {
     ]"
     role="alert"
   >
-    <div class="flex items-start gap-3 sm:gap-4">
+    <div class="flex items-start gap-3 sm:gap-4 u-app-soft-transition">
       <!-- Icon -->
       <div
         v-if="props.icon"
         :class="[
-          'shrink-0 flex items-center justify-center w-8 h-8 sm:w-10 sm:h-10 rounded-lg u-app-soft-transition',
+          'shrink-0 flex items-center justify-center w-8 h-8 sm:w-10 sm:h-10 rounded-xl u-app-soft-transition',
           {
             'bg-emerald-100 text-emerald-700': props.type === 'success',
             'bg-amber-100 text-amber-700': props.type === 'warning',
@@ -75,7 +75,7 @@ onMounted(() => {
         <h3
           v-if="props.title"
           :class="[
-            'ty-app-title text-lg sm:text-xl mb-1',
+            'text-lg sm:text-xl mb-1 u-app-soft-transition',
             {
               'text-emerald-900': props.type === 'success',
               'text-amber-900': props.type === 'warning',
@@ -88,7 +88,7 @@ onMounted(() => {
         </h3>
         <p
           :class="[
-            'ty-app-paragraph text-[0.8125rem] sm:text-sm',
+            'text-[0.8125rem] sm:text-sm u-app-soft-transition',
             {
               'text-emerald-800': props.type === 'success',
               'text-amber-800': props.type === 'warning',
